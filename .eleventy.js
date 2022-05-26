@@ -12,7 +12,7 @@ const mdOptions = {
   html: true,
   breaks: true,
   linkify: true,
-  typographer: true,
+  typographer: false,
 }
 
 const mdAnchorOpts = {
